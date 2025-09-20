@@ -33,9 +33,11 @@ A modern, responsive todo application built with React and TypeScript that simul
 ```bash
   git clone https://github.com/NickMutemasango/ToDo-List.git
  ```
- 2. **Install dependencies using**
+ 2. **Install dependencies inside the project using**
  ```bash
    npm install
+   # or if you use yarn:
+   yarn install
  ```
 3. **Start the project using**
  ```bash
