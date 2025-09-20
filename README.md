@@ -29,12 +29,12 @@ A modern, responsive todo application built with React and TypeScript that simul
 
 ### Steps to Start the Project
 
-1. **Clone or download the project files**
-2. **Install dependencies using**
-   ```bash
-  npm install
-  bash ```
+ 1. **Clone or download the project files**
+ 2. **Install dependencies using**
+ ```bash
+   npm install
+ ```
 3. **Start the project using**
  ```bash
   npm start
-  
+```
