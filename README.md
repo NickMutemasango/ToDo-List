@@ -30,13 +30,11 @@ A modern, responsive todo application built with React and TypeScript that simul
 ### Steps to Start the Project
 
 1. **Clone or download the project files**
-
+2. **Install dependencies using**
    ```bash
-   # If you have a git repository:
-   git clone <your-repository-url>
-   cd todo-app
-
-   # Or if you have the files directly:
-   # Navigate to your project directory
-   cd path/to/your/todo-app
-   ```
+  npm install
+  bash ```
+3. **Start the project using**
+ ```bash
+  npm start
+  
